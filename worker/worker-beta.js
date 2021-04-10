@@ -67,7 +67,7 @@ const uiConfig = {
     "logo_image": true, // true if you're using image link in next option.
     "logo_height": "", // only if logo_image is true
     "logo_width": "100px", // only if logo_image is true
-    "logo_link_name": "https://cdn.jsdelivr.net/gh/sam7oo/Google-Drive-Index-.07@main/images/logooo.svg", // if logo is true then link otherwise just text for name
+    "logo_link_name": "https://cdn.jsdelivr.net/gh/sam7oo/Google-Drive-Index-.08@main/images/logooo.svg", // if logo is true then link otherwise just text for name
     "contact_link": "https://iam.anshume.com/", // Link to Contact Button on Menu
     "copyright_year": "2050", // year of copyright, can be anything like 2015 - 2020 or just 2020
     "company_name": "Anshuva", // Name next to copyright
@@ -76,8 +76,8 @@ const uiConfig = {
     "display_size": true, // Set this to false to hide display file size
     "display_time": false, // Set this to false to hide display modified time for folder and files
     "disable_player": false, // Set this to true to hide audio and video players
-    "poster": "https://cdn.jsdelivr.net/gh/sam7oo/Google-Drive-Index-.07@main/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
-    "audioposter": "https://cdn.jsdelivr.net/gh/sam7oo/Google-Drive-Index-.07@main/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
+    "poster": "https://cdn.jsdelivr.net/gh/sam7oo/Google-Drive-Index-.08@main/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
+    "audioposter": "https://cdn.jsdelivr.net/gh/sam7oo/Google-Drive-Index-.08@main/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
     "jsdelivr_cdn_src": "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Google-Drive-Index", // If Project is Forked, then enter your Github repo
     "plyr_io_version": "3.6.4" // Change plyr.io version in future when needed.
 };
