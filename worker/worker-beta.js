@@ -70,7 +70,7 @@ const uiConfig = {
     "logo_image": true, // true if you're using image link in next option.
     "logo_height": "", // only if logo_image is true
     "logo_width": "100px", // only if logo_image is true
-    "logo_link_name": "https://cdn.jsdelivr.net/gh/sam7oo/Google-Drive-Index-.07@main/images/share.svg", // if logo is true then link otherwise just text for name
+    "logo_link_name": "https://cdn.jsdelivr.net/gh/sam7oo/Google-Drive-Index-.07@main/images/logooo.svg", // if logo is true then link otherwise just text for name
     "contact_link": "https://iam.anshume.com/", // Link to Contact Button on Menu
     "copyright_year": "2050", // year of copyright, can be anything like 2015 - 2020 or just 2020
     "company_name": "Anshuva", // Name next to copyright
