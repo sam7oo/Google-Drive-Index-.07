@@ -1,4 +1,4 @@
-// Redesigned by t.me/Anshuva from https://github.com/sam7oo/Google-Drive-Index-.08 which was written by someone else, credits are given on Source Page.
+// Redesigned by t.me/Anshuva from https://github.com/sam7oo/Google-Drive-Index-.07 which was written by someone else, credits are given on Source Page.
 // v2.0.15
 // Initialize the page
 function init() {
@@ -25,7 +25,7 @@ function init() {
   </div>
 </div>
 <br>
-<footer class="footer text-muted"> <div class="container"> <p class="float-right"> <a href="#">Back to top</a> </p> ${UI.credit ? '<p>Redesigned with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z" /> </svg> by <a href="https://github.com/sam7oo/Google-Drive-Index-.08" target="_blank">TheFirstSpeedster</a>, based on Open Source Softwares.</p>' : ''} <p>© ${UI.copyright_year} - <a href=" ${UI.company_link}" target="_blank"> ${UI.company_name}</a>, All Rights Reserved.</p> </div> </footer>
+<footer class="footer text-muted"> <div class="container"> <p class="float-right"> <a href="#">Back to top</a> </p> ${UI.credit ? '<p>Redesigned with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z" /> </svg> by <a href="https://github.com/sam7oo/Google-Drive-Index-.07" target="_blank">TheFirstSpeedster</a>, based on Open Source Softwares.</p>' : ''} <p>© ${UI.copyright_year} - <a href=" ${UI.company_link}" target="_blank"> ${UI.company_name}</a>, All Rights Reserved.</p> </div> </footer>
   `;
     $('body').html(html);
 }
